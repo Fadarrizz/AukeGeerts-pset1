@@ -1,4 +1,4 @@
-# MrPotatoHead2
+# AukeGeerts-pset1
 
 This app initializes a fully dressed Mr. Potatohead and allows the user to
 decide which of the elements are shown, with the use of checkboxes.
