@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.ImageView;
 
+import com.example.auke_pc.mrpotatohead2.R;
+
 public class MainActivity extends AppCompatActivity {
 
     ImageView imgArms, imgEars, imgEyes, imgGlasses, imgNose, imgShoes, imgEyebrows, imgHat,
